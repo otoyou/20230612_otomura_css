@@ -66,13 +66,13 @@
     color: black;
     font-size: 50px;
     position: absolute;
-    top: 40vh;
+    top: 43vh;
     z-index: 2;
 }
 
 .content__box {
     width: 75vw;
-    height: 32vh;
+    height: 35vh;
     background-color: #00277E;
     position: absolute;
     top: 50vh;
