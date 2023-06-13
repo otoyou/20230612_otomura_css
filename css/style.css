@@ -66,15 +66,39 @@
     color: black;
     font-size: 50px;
     position: absolute;
+    top: 150px;
+    z-index: 2;
+}
+
+.content__box {
+    width: 75vw;
+    height: 30vh;
+    background-color: #00277E;
+    position: absolute;
+    top: 200px;
+    z-index: 0;
+}
+/*.content__img {
+    width: 50vw;
+    position: absolute;
+    right: 0px;
+    z-index: 1;
+}
+
+.content__tit {
+    color: black;
+    font-size: 50px;
+    position: absolute;
     top: 43vh;
     z-index: 2;
 }
 
 .content__box {
     width: 75vw;
-    height: 35vh;
+    /*height: 35vh;
+    height: 200px;
     background-color: #00277E;
     position: absolute;
     top: 50vh;
     z-index: 0;
-}
+}*/
